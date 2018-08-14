@@ -1,1 +1,3 @@
-# devops-aula02
+# Sara Ramirez
+# Patrick Dempsey
+# Sandra Oh
